@@ -1,2 +1,2 @@
-# Programações em python
+# Funções em python
  
